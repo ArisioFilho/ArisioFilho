@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/arisio-filho-369a59255/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](www.instagram.com/arisiofilho_/)
+)](https://www.instagram.com/arisiofilho_/?next=%2F)
 
 ![Arisio GitHub stats](https://github-readme-stats.vercel.app/api?username=ArisioFilho&show_icons=true&theme=tokyonight)
 

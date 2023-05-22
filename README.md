@@ -1,4 +1,5 @@
 ### Olá, sou o Arisio 😃
+Estou aprendendo, crescendo e aprimorando minhas habilidades de programação
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/arisio-filho-369a59255/)
@@ -16,5 +17,3 @@
   <br/>
   
 [![Ranking linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ArisioFilho&hide_progress=true)](https://github.com/ArisioFilho/github-readme-stats)
-
-Aprendendo, crescendo e aprimorando minhas habilidades de programação

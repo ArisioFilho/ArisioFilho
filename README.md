@@ -1,5 +1,5 @@
 ### Olá, sou o Arisio 😃
-Estou aprendendo, crescendo e aprimorando minhas habilidades de programação
+Estou aprendendo e aprimorando minhas habilidades de programação
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/arisio-filho-369a59255/)
@@ -10,9 +10,9 @@ Estou aprendendo, crescendo e aprimorando minhas habilidades de programação
 
 ## Tecnologias que estou aprendendo:
 <div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </div>
   <br/>
   

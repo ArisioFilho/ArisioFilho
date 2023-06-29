@@ -1,6 +1,6 @@
 ### Olá, sou o Arisio 👋
- • Técnico em Redes de Computadores.
- • Cursando Sistemas de Informações.
+ • Técnico em Redes de Computadores. <br/>
+ • Cursando Sistemas de Informações. <br/>
  • Apaixonado por técnologia.
  
 ## Formas de contato:

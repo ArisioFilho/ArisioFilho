@@ -1,3 +1,4 @@
+
 ### Olá, sou o Arisio 👋
  • Técnico em Redes de Computadores. <br/>
  • Cursando Sistemas de Informações. <br/>
@@ -16,7 +17,7 @@
   <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
-  <br/>
+
 
 ## Tecnologias para o futuro:
 <div style="display: inline_block">

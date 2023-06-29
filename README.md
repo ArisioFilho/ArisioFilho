@@ -1,19 +1,27 @@
-### Olá, sou o Arisio 😃
-Estou aprendendo e aprimorando minhas habilidades de programação
+### Olá, sou o Arisio 👋
+ • Técnico em Redes de Computadores.
+ • Cursando Sistemas de Informações.
+ • Apaixonado por técnologia.
+ 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/arisio-filho-369a59255/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/arisiofilho_/?next=%2F)
-
-![Arisio GitHub stats](https://github-readme-stats.vercel.app/api?username=ArisioFilho&show_icons=true&theme=tokyonight)
+## Formas de contato:
+<img align="center" alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 ## Tecnologias que estou aprendendo:
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
   <br/>
-  
-[![Ranking linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ArisioFilho&hide_progress=true)](https://github.com/ArisioFilho/github-readme-stats)
+
+## Tecnologias para o futuro:
+<div style="display: inline_block">
+  <img align="center" alt="postg" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+  <br/>
+
+![Arisio GitHub stats](https://github-readme-stats.vercel.app/api?username=ArisioFilho&show_icons=true&theme=tokyonight)
